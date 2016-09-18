@@ -32,7 +32,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="приступить"
-            android:id="@+id/button"
+            android:id="@+id/btnStart"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="81dp" />
@@ -56,4 +56,6 @@
             android:id="@+id/textView2"
             android:layout_below="@+id/textView"
             android:layout_centerHorizontal="true" />
+
+
 </RelativeLayout>
